@@ -74,7 +74,6 @@ For academic use, please cite this work as follows:
 If you find this repository useful in your research, please consider citing the following papers:
 ```
 @article{Er-HDC2024,
-  author        = {Mohamed mejri and Chandramouli Amarnath and Abhijit Chatterjee},
   title         = {Error Resilient Hyperdimensional Computing Using Hypervector Encoding and Cross-Clustering},
   conference    = {IEEE VLSI Test Symposium},
   year          = {2024},
